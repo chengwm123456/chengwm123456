@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @chengwm123456
-- 👀 I’m interested in programming and playing computer games.
-- 🌱 I’m currently learning the thing that I'm learning.
-- ⚡ Fun fact: there's no fun fact about me.
+- Email Address: 1557808195@qq.com
+- I’m interested in programming and playing computer games.
+- I’m currently learning the thing that I'm learning.
+- Fun fact: there's no any fun fact about me.
 
 <!---
 chengwm123456/chengwm123456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
