@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chengwm123456
+- 👋 Hi, I’m @chengwm123456, you can also call me @chengwm.
 - Email Address: 1557808195@qq.com
 - I’m interested in programming and playing computer games.
 - I’m currently learning the thing that I'm learning.
