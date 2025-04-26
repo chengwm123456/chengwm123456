@@ -4,7 +4,10 @@
 - I’m currently learning the thing that I'm learning.
 - Fun fact: there's no any fun fact about me.
 
-<!---
-chengwm123456/chengwm123456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+- 👋 Hi，我是 @chengwm123456，你还可以把我叫做 @chengwm。
+- 邮箱地址：1557808195@qq.com
+- 我喜欢编程和玩游戏（不多）。
+- 我在学我在学的东西。~~（废话文学）~~
+- 有趣的事情：这竟然没有任何关于我的有趣的事情。~~（废话文学 * 2）~~
