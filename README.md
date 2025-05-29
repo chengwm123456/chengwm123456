@@ -2,7 +2,7 @@
 - Email Address: 1557808195@qq.com
 - I’m interested in programming and playing computer games (sometimes).
 - I’m learning the things that I'm learning currently.
-- Fun fact: there isn't any fun facts about me.
+- Fun fact: there aren't any fun facts about me.
 
 ---
 
